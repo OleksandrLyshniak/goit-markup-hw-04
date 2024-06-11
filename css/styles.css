@@ -339,8 +339,6 @@ img {
 .item-sociale {
     width: 40px;
     height: 40px;
-    /* border-radius: 50%;
-    background-color: #4d5ae5; */
     position: relative;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
