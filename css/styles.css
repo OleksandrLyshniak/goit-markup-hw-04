@@ -473,6 +473,16 @@ img {
     display: flex;
     flex-direction: row;
     align-items: baseline;
+    width: 1440px;
+    padding-left: 156px;
+}
+
+.link:hover .footer-list-sociale {
+    background-color: #31d0aa;
+}
+
+.link:focus .footer-list-sociale {
+    background-color: #31d0aa;
 }
 
 .footer-content-containet {
@@ -487,10 +497,8 @@ img {
 }
 
 .footer-social-icon {
-    fill: white;
+    fill: #f4f4fd;
     position: absolute;
-    top: 8px;
-    left: 8px;
 }
 
 .footer-social-text {
