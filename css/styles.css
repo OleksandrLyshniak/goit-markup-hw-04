@@ -175,6 +175,7 @@ img {
     max-width: 1440px;
     height: 600px;
     background-size: cover;
+    margin: 0 auto;
 }
 
 .title-box .container {
