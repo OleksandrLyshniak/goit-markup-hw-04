@@ -472,9 +472,7 @@ img {
 .footer-container {
     display: flex;
     flex-direction: row;
-    align-items: baseline
-    width: 1440px;
-    padding-left: 156px;
+    align-items: baseline;
 }
 
 .footer-content-containet {
